@@ -34,7 +34,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 10px;
-    background: url(/assets/images/grafite-arte-urbana-og.webp) no-repeat center center;
+    background: url(/assets/images/spacio-artist-of-he-month-romero-britto-Art-spacio-india.webp) no-repeat center center;
     background-size: cover;
     opacity: 0.9;
     color: #2e2b2b;
