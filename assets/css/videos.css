@@ -165,7 +165,7 @@
     }
 
     iframe{
-        max-width: fit-content !important;
+        max-width: 90% !important;
         margin: 0 auto;
     }
 
